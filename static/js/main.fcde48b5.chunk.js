@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{13:function(e,a,n){},15:function(e,a,n){},24:function(e,a,n){"use strict";n.r(a);var t=n(0),r=n.n(t),c=n(5),o=n.n(c);n(13),n(15);var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},r.a.createElement("h1",{className:"title"},"Tanora Taratra")))},s=n(7);o.a.render(r.a.createElement(s.a,null,r.a.createElement(l,{path:"/"})),document.getElementById("root"))},8:function(e,a,n){e.exports=n(24)}},[[8,2,1]]]);
+//# sourceMappingURL=main.fcde48b5.chunk.js.map
